@@ -13,9 +13,10 @@
 
   --header-margin: clamp(6.125rem, 5.8404rem + 0.6826vw, 6.25rem); 
   --header-padding: clamp(7.5rem, 7.2831rem + 0.9355vw, 8.125rem);
-  --header-size: clamp(3.0625rem, 2.7117rem + 1.4967vw, 4.0625rem);
-  --header-title-size: clamp(0.875rem, 0.6777rem + 0.8419vw, 1.4375rem);
-  --width-card: clamp(23.4375rem, 16.2852rem + 30.5164vw, 43.5rem);
+  --header-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
+  --header-title-size: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
+  --header-inline-size: clamp(375px, 30.52vw + 260.55px, 700px);
+  --width-card: clamp(23.1875rem, 0rem + 100vw, 43.75rem);
   --width-img: clamp(23.1875rem, 16.0352rem + 30.5164vw, 43.5rem);
   --card-title-padding: clamp(4px, calc(2.86px + 0.307vw), 5px)10px;
 }
